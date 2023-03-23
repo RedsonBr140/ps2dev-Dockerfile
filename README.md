@@ -7,6 +7,7 @@ This image contains:
 * GNU make
 * GCC
 * GNU Bash
+* Vim
 
 ## Usage
 Supposing you want to build your project now, go to its root(where the Makefile is) and run:
